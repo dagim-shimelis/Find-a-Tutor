@@ -1,4 +1,4 @@
-# Find me Tutor
+# Find a Tutor
 
 A website for finding tutors
 
